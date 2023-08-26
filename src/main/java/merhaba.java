@@ -8,5 +8,8 @@ public class merhaba {
         //versio 3
         System.out.println("version 3");
 
+        //version4
+        System.out.println("hatalı kodlar");
+
     }
 }
